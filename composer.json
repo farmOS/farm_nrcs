@@ -1,0 +1,18 @@
+{
+  "name": "drupal/farm_nrcs",
+  "description": "Adds NRCS Soil Survey layer to farmOS maps.",
+  "type": "drupal-module",
+  "homepage": "https://www.drupal.org/project/farm_nrcs",
+  "license": "GPL-2.0-or-later",
+  "support": {
+      "docs": "https://farmOS.org/guide",
+      "forum": "https://farmOS.discourse.group",
+      "chat": "https://matrix.to/#/#farmOS:matrix.org"
+  },
+  "authors": [
+      {
+          "name": "Michael Stenta",
+          "email": "mike@farmier.com"
+      }
+  ]
+}

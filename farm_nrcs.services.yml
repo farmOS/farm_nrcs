@@ -1,0 +1,5 @@
+services:
+  nrcs_map_render_event_subscriber:
+    class: Drupal\farm_nrcs\EventSubscriber\MapRenderEventSubscriber
+    tags:
+      - { name: 'event_subscriber' }

@@ -1,0 +1,5 @@
+nrcs_soil_survey:
+  js:
+    js/farmOS.map.behaviors.nrcs_soil_survey.js: { }
+  dependencies:
+    - farm_map/farmOS-map
