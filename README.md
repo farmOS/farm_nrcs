@@ -5,7 +5,7 @@ Adds NRCS Soil Survey layer to farmOS maps.
 ## Installation
 
 Install as you would normally install a contributed drupal module. See:
-http://drupal.org/documentation/install/modules-themes/modules-7 for further
+https://www.drupal.org/docs/extending-drupal/installing-modules for further
 information.
 
 ## Maintainers
