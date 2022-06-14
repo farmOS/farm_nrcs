@@ -1,4 +1,7 @@
 services:
+  nrcs.soil_data_access:
+    class: Drupal\farm_nrcs\SoilDataAccess
+    arguments: [ '@http_client' ]
   nrcs_map_render_event_subscriber:
     class: Drupal\farm_nrcs\EventSubscriber\MapRenderEventSubscriber
     tags:
