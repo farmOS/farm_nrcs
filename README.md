@@ -14,4 +14,6 @@ Current maintainers:
 * Michael Stenta (m.stenta) - https://github.com/mstenta
 
 This project has been sponsored by:
-* [Farmier](http://farmier.com)
+* [Farmier](https://farmier.com)
+* [OpenTEAM](https://openteam.community)
+* [Natural Resources Conservation Service](https://www.nrcs.usda.gov)
