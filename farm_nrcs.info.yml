@@ -2,6 +2,6 @@ name: farmOS NRCS
 description: Adds NRCS Soil Survey layer to farmOS maps.
 type: module
 package: farmOS Contrib
-core_version_requirement: ^9
+core_version_requirement: ^9 || ^10
 dependencies:
   - farm_map
